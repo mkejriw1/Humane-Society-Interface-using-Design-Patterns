@@ -1,0 +1,1 @@
+To run the application run it from the HumaneCentre.java file
